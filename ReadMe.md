@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Web Back-End<br>Já tive alguns projetos de desenvolvimento de jogos com C#<br>hoje me dedico a me aperfeiçoar nas tecnologias de desenvolvimento Web<br>Analise e Desenvolvimento de Sistemas pelo Instituto Federal de Ciências e tecnologias. - 
+Desenvolvedor Web Back-End<br><br>Me aperfeiçoando a cada dia nas tecnologias de desenvolvimento Web como o Node.js e Java SpringBoot<br>Analise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciências e tecnologias. - 
 
 
 ## 🌐 Socials:
